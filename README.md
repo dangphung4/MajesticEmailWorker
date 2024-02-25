@@ -1,14 +1,5 @@
-# Auth0 Next.js SDK Sample Application
-
-This sample demonstrates the integration of [Auth0 Next.js SDK](https://github.com/auth0/nextjs-auth0) into a Next.js application created using [create-next-app](https://nextjs.org/docs/api-reference/create-next-app). The sample is a companion to the [Auth0 Next.js SDK Quickstart](https://auth0.com/docs/quickstart/webapp/nextjs).
-
-This sample demonstrates the following use cases:
-
-- [Login](https://github.com/auth0-samples/auth0-nextjs-samples/blob/main/Sample-01/components/NavBar.jsx#L61-L67)
-- [Logout](https://github.com/auth0-samples/auth0-nextjs-samples/blob/main/Sample-01/components/NavBar.jsx#L93-L95)
-- [Showing the user profile](https://github.com/auth0-samples/auth0-nextjs-samples/blob/main/Sample-01/pages/profile.jsx)
-- [Protecting client-side rendered pages](https://github.com/auth0-samples/auth0-nextjs-samples/blob/main/Sample-01/pages/profile.jsx#L43-L46)
-- [Calling APIs](https://github.com/auth0-samples/auth0-nextjs-samples/blob/main/Sample-01/pages/external.jsx)
+# MajesticEmailWorker
+“I adore emails, the digital whispers of connection. Each ping, a heartbeat; every inbox notification, a thrill. Life without emails? Unthinkable. They’re not mere messages but lifelines, crafting a symphony of words with every send/receive. Emails, you’re my endless love in the vast digital expanse.” -Shakespeare 
 
 ## Project setup
 
